@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-validate-db",
+    "name": "donkeyworks/zendframework1-validate-db",
     "description": "Zend Framework 1 Validate_Db component",
     "type": "library",
     "keywords": [
@@ -12,9 +12,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-db": "^1.0.0",
-        "diablomedia/zendframework1-validate": "^1.0.0"
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-db": "^1.0.0",
+        "donkeyworks/zendframework1-validate": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
